@@ -6,7 +6,7 @@
   
 ## Connect me
 
-<a href="https://telegram.me/ibrohim_my">
+<a href="https://telegram.me/IbrokhimovMY">
   <img src="https://img.shields.io/badge/blog-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white" />    
 </a>&nbsp;
 <a href="https://www.linkedin.com/in/IbrokhimovMY/">
@@ -18,7 +18,7 @@
 <a href="https://leetcode.com/u/IbrokhimovMY/">
   <img src="https://img.shields.io/badge/medium-FFC017?style=for-the-badge&logo=medium&logoColor=white" />    
 </a>&nbsp;
-<a href="https://telegram.me/IbrokhimovMY">
+<a href="https://telegram.me/ibrohim_my">
   <img src="https://img.shields.io/badge/telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white" />    
 </a>&nbsp;
 
