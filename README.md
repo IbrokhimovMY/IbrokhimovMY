@@ -9,24 +9,23 @@
 <a href="https://telegram.me/ibrohim_my">
   <img src="https://img.shields.io/badge/blog-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white" />    
 </a>&nbsp;
-<a href="https://www.linkedin.com/in/khusinov/">
+<a href="https://www.linkedin.com/in/IbrokhimovMY/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;
-<a href="mailto:shaxriyorqin@gmail.com">
+<a href="mailto:ibrokhimovmy@gmail.com">
   <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;
-<a href="https://leetcode.com/u/shaxriyor_xusinov/">
+<a href="https://leetcode.com/u/IbrokhimovMY/">
   <img src="https://img.shields.io/badge/medium-FFC017?style=for-the-badge&logo=medium&logoColor=white" />    
 </a>&nbsp;
-<a href="https://telegram.me/Xusinov">
+<a href="https://telegram.me/IbrokhimovMY">
   <img src="https://img.shields.io/badge/telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white" />    
 </a>&nbsp;
 
 ## Programming languages
 
-<img  src="https://img.shields.io/badge/Kotlin-8382E3?style=for-the-badge&logo=kotlin&logoColor=white">&nbsp;
-<img  src="https://img.shields.io/badge/Java-E56F08?style=for-the-badge&logo=java&logoColor=white">&nbsp;
-<img  src="https://img.shields.io/badge/Dart-%230077B5?style=for-the-badge&logo=dart&logoColor=white">&nbsp;
+<img  src="https://img.shields.io/badge/Kotlin-8382E3?style=for-the-badge&logo=python&logoColor=white">&nbsp;
+<img  src="https://img.shields.io/badge/Java-E56F08?style=for-the-badge&logo=kotlin&logoColor=white">&nbsp;
 <img  src="https://img.shields.io/badge/SQL-b33939?style=for-the-badge&logo=sql&logoColor=white">&nbsp;
 
 ## Github stats
